@@ -4,6 +4,6 @@ The time series is first transformed into a supervised learning format, enabling
 The model is trained and evaluated using walk-forward validation, supporting both rolling window and expanding window strategies for robust cross-validation.  
 Prediction accuracy is measured using Mean Absolute Error (MAE) to assess model performance over time. 
 Finally, the actual vs. predicted values are visualized using Matplotlib to provide intuitive insight into forecasting quality and temporal behavior.  
-![Forecasting Result](img/output.png)  
+<img src="img/output.png" alt="After" width="300" height="200">
   
-Implemented by @wanghii
+---- Implemented by @wanghii
